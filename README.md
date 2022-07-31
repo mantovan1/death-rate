@@ -2,8 +2,8 @@
 
 Death Rate around the world
 
-<img width="200" src="./death_rate.png" />
+<img width="300" src="./death_rate.png" />
 
 Death Rate × GDP (Gross Domestic Product)
 
-<img width="200" src="./death_rate_and_GDP.png" />
+<img width="300" src="./death_rate_and_GDP.png" />
